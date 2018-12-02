@@ -1,0 +1,20 @@
+body {
+  padding-top: 70px;
+}
+
+.row {
+  padding-bottom: 20px;
+}
+
+.jumbotron {
+  color: #314553;
+}
+
+
+.navbar{
+background-color: #314553;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+}
